@@ -6,7 +6,7 @@
 |---|---|
 |HN|sola|
 |生年月日|1987/01/28|
-|Twitter|@aidem_at_sola|
+|Twitter|[@aidem_at_sola](https://twitter.com/aidem_at_sola)|
 
 ---
 

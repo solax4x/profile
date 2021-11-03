@@ -52,7 +52,7 @@
 ### 株式会社FOUND（2012/05〜2021/11）
 
 - 起業（雇用無し）
-- family (https://kindred.tokyo/) 開発
+- [family](https://kindred.tokyo/) 開発
 - Android、iOS、BLE、NFC、WebRTC、WebSocket、機械学習等のアプリ開発や技術支援
 - Android 開発の教育業務
 - 診断業務補助
@@ -76,4 +76,4 @@
 
 ## 業務外活動
 
-- CTF（https://github.com/madhaxers）
+- CTF（[madhaxers](https://github.com/madhaxers)）
